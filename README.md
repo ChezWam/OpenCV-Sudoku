@@ -1,4 +1,5 @@
 OpenCV-Sudoku
 =============
 
-Open-cv project 201
+A simple OpenCV example app to solve a sudoku from a video stream.
+Requires OpenCV2.*
